@@ -3,7 +3,7 @@
 
 
 
-// GIT_USER=RyanKhalilil24 npm run deploy - deploy command through VScode terminal
+// GIT_USER=RyanKhalili24 npm run deploy - deploy command through VScode terminal
 
 
 
